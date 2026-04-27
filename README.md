@@ -20,6 +20,10 @@ The first data download can take around 15 minutes, and may take 30 minutes or l
 
 ## Results
 
+### Video Demo
+
+https://github.com/user-attachments/assets/85a1ea6c-8a84-412e-8a81-b24dc9851211
+
 ### Radar BEV Minimap
 
 ![Radar BEV minimap](assets/01_bev_minimap.png)
